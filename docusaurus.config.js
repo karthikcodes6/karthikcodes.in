@@ -89,6 +89,11 @@ module.exports = {
           label: "GitHub",
           position: "right",
         },
+        {
+          href: "https://www.getrevue.co/profile/karthikcodes6",
+          label: "Subscribe",
+          position: "right",
+        },
       ],
     },
   }, 
