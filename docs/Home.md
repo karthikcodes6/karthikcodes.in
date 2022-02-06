@@ -6,11 +6,10 @@ hide_title: true
 slug: /
 ---
 
-Hey, glad to see you here. My name is Karthik. I'm a software engineer based in India! I'm using this space to share my knowledge on the internet.
+Hey, I’m Karthik. I’m a software engineer based in India! I’m currently building a tool called [Sketchnote.co](https://sketchnote.co). 
 
-I write blogs:
-* From setting up DNS for a custom domain in AWS to building a web application that scales to 5 million pages.
-* From improving react performance using useMemo and useCallback to architecting a scalable frontend using mono repo.
-* From choosing the best rich text editor to building tools like the Sketchnote app.
-* From React's state reducer pattern to object-oriented patterns for backend APIs.
-* From authentication patterns to authorization patterns
+Before Sketchnote.co I worked at LTI as a software engineer. I was also building a mobile app called Connected Senses based on the fitness domain.
+
+I’m exploring more on real-time collaboration and rich text editing. I build plugins at Plate. And I’m trying to improve the performance of the Slate editor. 
+
+I am excited about full-stack development, UX designing, design systems, mono repo architecture, building composable components and building component libraries. 
