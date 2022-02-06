@@ -26,3 +26,6 @@
 /* 隐藏 scrollbar */
 ::-webkit-scrollbar {display:none;}
 
+.container {
+	max-width: 48rem;
+}
