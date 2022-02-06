@@ -6,6 +6,9 @@ hide_title: true
 slug: /
 ---
 
+<br />
+<br />
+<br />
 Hey, I’m Karthik. I’m a software engineer based in India! I’m currently building a tool called [Sketchnote.co](https://sketchnote.co). 
 
 Before Sketchnote.co I worked at LTI as a software engineer. I was also building a mobile app called Connected Senses based on the fitness domain.
