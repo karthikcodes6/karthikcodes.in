@@ -31,6 +31,7 @@ module.exports = {
       },
       items: [
         'bookmarks/cool-js-libraries',
+        'bookmarks/serverless-projects'
       ],
     },
     {
