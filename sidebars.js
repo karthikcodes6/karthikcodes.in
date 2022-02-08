@@ -100,6 +100,14 @@ module.exports = {
     },
     {
       type: 'category',
+      label: "System Design",
+      items: [
+        'system-design/overview',
+        'system-design/client-server-model',
+      ]
+    },
+    {
+      type: 'category',
       label: "Personal Development",
       items: ['personal-development/audience-identification']
     }
