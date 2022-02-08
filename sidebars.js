@@ -102,8 +102,8 @@ module.exports = {
       type: 'category',
       label: "System Design",
       items: [
-        'system-design/overview',
-        'system-design/client-server-model',
+        'system-design/system-design-overview',
+        'system-design/system-design-client-server-model',
       ]
     },
     {
