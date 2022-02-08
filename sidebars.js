@@ -30,8 +30,7 @@ module.exports = {
           "All links I've bookmarked, organized by topic.",
       },
       items: [
-        'bookmarks/cool-js-libraries',
-        'bookmarks/serverless-projects'
+        'bookmarks/all-bookmarks'
       ],
     },
     {
