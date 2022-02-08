@@ -6,7 +6,7 @@ title: All Bookmarks
 
 ## Collaboration
 - [Local-first software](https://www.inkandswitch.com/local-first) - You own your data, in spite of the cloud
-
+- [YJS](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 
 ## Javascript Libraries
 - [React DND Scrolling](https://github.com/TechStark/react-dnd-scrolling) - A smooth scrolling container for draggable items
