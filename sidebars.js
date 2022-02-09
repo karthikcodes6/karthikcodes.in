@@ -103,6 +103,7 @@ module.exports = {
       items: [
         'system-design/system-design-overview',
         'system-design/system-design-client-server-model',
+        'system-design/system-design-network-protocols',
       ]
     },
     {
