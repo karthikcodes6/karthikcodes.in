@@ -104,6 +104,8 @@ module.exports = {
         'system-design/system-design-overview',
         'system-design/system-design-client-server-model',
         'system-design/system-design-network-protocols',
+        'system-design/system-design-system-design-storage',
+        'system-design/system-design-latency-throughput',
       ]
     },
     {
