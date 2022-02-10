@@ -30,3 +30,7 @@
 .container {
 	max-width: 48rem;
 }
+
+.blog-post-page .container {
+	max-width: 60rem;
+}
