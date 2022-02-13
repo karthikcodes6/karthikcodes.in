@@ -1,6 +1,6 @@
 ---
 id: graphs-overview
-title: Graphs
+title: Graphs Overview
 ---
 
 ### Graph
