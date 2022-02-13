@@ -95,6 +95,13 @@ module.exports = {
             'algorithms/sorting/selection-sort',
           ]
         },
+        {
+          type: 'category',
+          label: "Graphs",
+          items: [
+            'algorithms/graphs/graphs-overview',
+          ]
+        },
       ]
     },
     {
