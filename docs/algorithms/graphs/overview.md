@@ -18,7 +18,7 @@ title: Graphs Overview
 - A graph that has at least one cycle.
 
 ### Directed Graph
-- A graph whose edges are directed, meaning that they can only be traversed in on direction, which is specified.
+- A graph whose edges are directed, meaning that they can only be traversed in one direction, which is specified.
 - For example, a graph of ariports and flights would likely be directed, since a flight specifically goes from one airport to another (i.e., it has a direction), without necessarily implying the presence of a flight in the opposite direction.
 
 ### Undirected Graph

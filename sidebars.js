@@ -102,6 +102,7 @@ module.exports = {
             'algorithms/graphs/graphs-overview',
           ]
         },
+        'algorithms/two-pointer-technique'
       ]
     },
     {
