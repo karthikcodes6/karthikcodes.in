@@ -16,3 +16,6 @@ title: All Bookmarks
 
 ## Serverless Projects
 - [Serverless Stack](https://serverless-stack.com/) - Serverless Stack (SST) is an open-source serverless application platform that deploys to your AWS account, helping you go from idea to IPO.
+
+## Coding Interviews 
+- [How to Rock the Coding Interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/) - Tips That Helped Me Land Job Offers from Google, Airbnb, and Dropbox
