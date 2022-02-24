@@ -102,6 +102,13 @@ module.exports = {
             'algorithms/graphs/graphs-overview',
           ]
         },
+        {
+          type: 'category',
+          label: "Trees",
+          items: [
+            'algorithms/trees/trees-overview',
+          ]
+        },
         'algorithms/two-pointer-technique'
       ]
     },
