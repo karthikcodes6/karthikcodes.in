@@ -4,7 +4,7 @@ title: Simple Promise Implementation
 ---
 
 
-```
+```ts
 class PromiseSimple {
   constructor(executionFunction) {
     this.promiseChain = [];
