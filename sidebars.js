@@ -122,6 +122,8 @@ module.exports = {
         'system-design/system-design-network-protocols',
         'system-design/system-design-storage',
         'system-design/system-design-latency-throughput',
+        'system-design/system-design-availability',
+        'system-design/system-design-caching',
       ]
     },
     {
