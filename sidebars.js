@@ -18,6 +18,7 @@ module.exports = {
         'tech-notes/problem-solving',
         'tech-notes/frontend-masters-full-stack-notes',
         'tech-notes/objected-oriented-design',
+        'tech-notes/simple-promise-notes',
       ],
     },
     {
