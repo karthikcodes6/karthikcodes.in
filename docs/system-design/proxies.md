@@ -1,6 +1,6 @@
 ---
-id: system-design-availability
-title: Availability
+id: system-design-proxies
+title: Proxies
 ---
 
 ### Forward Proxy

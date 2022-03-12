@@ -124,6 +124,8 @@ module.exports = {
         'system-design/system-design-latency-throughput',
         'system-design/system-design-availability',
         'system-design/system-design-caching',
+        'system-design/system-design-proxies',
+        'system-design/system-design-load-balancers',
       ]
     },
     {
