@@ -75,6 +75,13 @@ module.exports = {
     },
     {
       type: 'category',
+      label: "Web",
+      items: [
+        'web-interview/web-interview-algorithms',
+      ]
+    },
+    {
+      type: 'category',
       label: "Algorithms",
       items: [
         {
