@@ -1,4 +1,3 @@
-
 ---
 id: system-design-caching
 title: Caching
