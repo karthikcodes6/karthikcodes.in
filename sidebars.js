@@ -79,6 +79,8 @@ module.exports = {
         "web-interview/web-interview-react",
         "web-interview/web-interview-typescript",
         "web-interview/web-interview-webpack",
+        "web-interview/web-interview-web-security",
+        "web-interview/web-interview-react-native",
       ],
     },
     {
