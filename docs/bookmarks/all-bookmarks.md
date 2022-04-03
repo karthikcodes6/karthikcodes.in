@@ -21,4 +21,6 @@ title: All Bookmarks
 - [How to Rock the Coding Interview](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/) - Tips That Helped Me Land Job Offers from Google, Airbnb, and Dropbox
 
 ## UX 
-- [Breaking down Amazon’s mega dropdown](https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown) - 
+- [Breaking down Amazon’s mega dropdown](https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown) 
+
+- [useRef vs Outside variable](https://markoskon.com/the-difference-between-refs-and-variables/) 
