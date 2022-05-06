@@ -10,7 +10,7 @@ slug: /
 <br />
 <br />
 
-Hey, I’m Karthik. I’m a software engineer based in India! I’m currently building a tool called [Sketchnote.co](https://sketchnote.co). 
+Hey, I’m Karthik. I’m a software engineer based in India! I’m currently working at [Sketchnote.co](https://sketchnote.co). 
 
 Before [Sketchnote.co](https://sketchnote.co) I worked at [LTI](https://www.linkedin.com/company/l&t-infotech/) as a software engineer. I was also building a mobile app called [Connected Senses](https://connected-senses.com/) based on the fitness domain.
 
