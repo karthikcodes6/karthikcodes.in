@@ -8,7 +8,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
-  favicon: "https://media.istockphoto.com/vectors/emotional-sticker-internet-meme-icon-vector-illustration-in-flat-vector-id1201221909?k=20&m=1201221909&s=170667a&w=0&h=zFGGaFE1PmbOMb4BfTEBiVz8eaqie_ws5uZ5uXSAhsA=",
+  favicon: "https://lh5.googleusercontent.com/AXJrR7nMmY2B9FEaEKAmOmAYhAnxkqwZYbEbS-Rr2UL09bCpeY2XC79sDVt1UxPqkNloM1zfP20NuMJkunv5=w2782-h1592-rw",
   //organizationName: "linyuxuanlin", // Usually your GitHub org/user name.
   //projectName: "Wiki_Docusaurus", // Usually your repo name.
   themeConfig: {
@@ -20,7 +20,7 @@ module.exports = {
     */
 
     //sidebarCollapsible: true, //默认折叠
-    image: 'https://media.istockphoto.com/vectors/emotional-sticker-internet-meme-icon-vector-illustration-in-flat-vector-id1201221909?k=20&m=1201221909&s=170667a&w=0&h=zFGGaFE1PmbOMb4BfTEBiVz8eaqie_ws5uZ5uXSAhsA=',
+    image: 'https://lh5.googleusercontent.com/AXJrR7nMmY2B9FEaEKAmOmAYhAnxkqwZYbEbS-Rr2UL09bCpeY2XC79sDVt1UxPqkNloM1zfP20NuMJkunv5=w2782-h1592-rw',
     algolia: {
       apiKey: "5c07d8bf9c9928c4453857f6cad0420e",
       indexName: "wiki-power",
