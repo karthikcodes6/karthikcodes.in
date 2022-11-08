@@ -134,6 +134,11 @@ module.exports = {
     },
     {
       type: "category",
+      label: "Product",
+      items: ["product/lean-startup"],
+    },
+    {
+      type: "category",
       label: "Personal Development",
       items: ["personal-development/audience-identification"],
     },
