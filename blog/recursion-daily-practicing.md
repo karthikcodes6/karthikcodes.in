@@ -6,6 +6,8 @@ tags: []
 We may use recursion in daily programming without knowing.
 I will explain what recursion is and where can we use it. Keep reading!
 
+<!--truncate-->
+
 ## **What is recursion?** 
 In layman terms, when we doing the same task repeatedly we can call it a recursive task. In programming terms, when a function calls a function itself to do the task and it's going iteratively to complete. It's called recursion.
 

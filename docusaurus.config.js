@@ -130,6 +130,7 @@ module.exports = {
           showReadingTime: false,
           path: 'blog',
           blogSidebarTitle: 'Recent',
+          truncateMarker: /<!--\s*(truncate)\s*-->/,
           // editUrl: 'https://github.com/linyuxuanlin/Wiki_Docusaurus/edit/main/',
           /*
           feedOptions: {

@@ -5,8 +5,7 @@ tags: [algorithms, javascript]
 
 When talking about the patterns, there will not the best problem-solving patterns it does not exist. Instead, look at all the patterns and choose whichever is best. 
 
-Today I pass through some good problem-solving patterns. I would like to share with you all.
-
+<!--truncate-->
 
 ## **1. Frequency Counter**
 

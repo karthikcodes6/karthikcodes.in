@@ -7,6 +7,8 @@ tags: [solid, react, javascript, best-practices]
 
 *SOLID* is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin (also known as [Uncle Bob](http://en.wikipedia.org/wiki/Robert_Cecil_Martin)).
 
+<!--truncate-->
+
 **The SOLID principles are a set of software design principles that teach us how we can structure our functions and classes to be as robust, maintainable and flexible as possible.**
 
 ### The problem:

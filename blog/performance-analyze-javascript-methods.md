@@ -5,6 +5,8 @@ tags: [javascript, optimization]
 
 Let's discuss the performance of Javascript built-in methods.
 
+<!--truncate-->
+
 
 ## *Things we are going to discuss in this blog:*
 1. Understand how objects and arrays work, through the lens of Big O.

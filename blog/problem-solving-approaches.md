@@ -3,9 +3,9 @@ title: Best Problem-Solving Approaches
 tags: [javascript, algorithms, problem-solving]
 ---
 
-Hello developers, 
-
 In this post, we're going to discuss the problem-solving Approaches and how to come up with the optimum approaches for a problem. I recommend you to refer to this post before you are solving any problem. Whatever I'm discussing will help you in the longer run. Hope you will enjoy!
+
+<!--truncate-->
 
 ## **Outcomes!**
 1. Will discuss, about what an algorithm is?
