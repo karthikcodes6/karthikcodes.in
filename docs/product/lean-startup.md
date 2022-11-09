@@ -3,12 +3,16 @@ id: lean-startup
 title: Lean Startup
 ---
 
+<!-- 
+References
+https://www.oberlo.com/blog/lean-startup 
+-->
+
 # Lean Startup
 
 1. Vision – Here, Ries puts forward the case for a new discipline of entrepreneurial management.
 2. Steer – This section dives deeper into the Lean Startup business model.
 3. Accelerate – Here, the focus is on how to get Lean Startups to speed through the ‘Build-Measure-Learn’ feedback loop as quickly as possible.
-
 
 ## Vision
 
@@ -47,3 +51,20 @@ Ship out a version of the product as quickly as possible to obtain real data.
 
 Essentially, don’t trust customers to know what they want ahead of time. Instead, trust the way they behave with a tangible version of the product and use this data to inform decisions going forward.
 
+### Freedom to Experiment is Essential
+
+Get the customers to interact with a product as quickly as possible as it is the results of this experimentation that determine the direction of the product.
+
+**Zappos** followed this process to determine customers willingness to buy shoes:
+1. Approached local shoe stores and took photos.
+2. Posted pictures online to see if customers would buy them.
+3. If they did, return to the store, buy the pair of shoes at full price, and send them on to the customer.
+
+Zappos started small and employed the quickest way possible to test their hypothesis that there was a demand for online shoes.
+
+Validated learning and fast experimentation are integral to the lean startup business method. 
+
+1. Release the first iteration very soon.
+2. Collect real world data as much as possible and kown what is and is not working in reality, 
+3. Never ever assume this will work in the future only real data. 
+4. All data only available "outside the building" i.e. in the real world. 
