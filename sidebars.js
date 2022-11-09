@@ -140,7 +140,7 @@ module.exports = {
     {
       type: "category",
       label: "Personal Development",
-      items: ["personal-development/audience-identification"],
+      items: ["personal-development/audience-identification", 'personal-development/todo-list-formula'],
     },
   ],
 };
