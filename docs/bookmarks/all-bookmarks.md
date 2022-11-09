@@ -11,7 +11,10 @@ title: All Bookmarks
 ## Functional Programming
 - [Funtional Programming Fundamentals by Matthew](https://www.matthewgerstman.com/tech/functional-programming-fundamentals/)
 
-## Javascript Libraries
+## Javascript
+
+## React
+- [useRef vs Outside variable](https://markoskon.com/the-difference-between-refs-and-variables/) 
 - [React DND Scrolling](https://github.com/TechStark/react-dnd-scrolling) - A smooth scrolling container for draggable items
 
 ## Serverless Projects
@@ -23,4 +26,5 @@ title: All Bookmarks
 ## UX 
 - [Breaking down Amazon’s mega dropdown](https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown) 
 
-- [useRef vs Outside variable](https://markoskon.com/the-difference-between-refs-and-variables/) 
+## PKM / TFT
+- [Dynalist](https://dynalist.io/) - outlining app
