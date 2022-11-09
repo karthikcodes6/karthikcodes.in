@@ -1,6 +1,6 @@
 ---
 id: todo-list-formula
-title: To-Do List Formula: A Stress-Free Guide To Creating To-Do Lists That Work!
+title: To-Do List Formula, A Stress-Free Guide To Creating To-Do Lists That Work!
 ---
 
 
