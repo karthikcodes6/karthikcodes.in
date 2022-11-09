@@ -14,6 +14,7 @@ title: All Bookmarks
 
 ## Product Building
 - [Product Psychology Masterclass](https://growth.design/course)
+- [Finding Language/Market Fit: How to Make Customers Feel Like You’ve Read Their Minds](https://review.firstround.com/finding-language-market-fit-how-to-make-customers-feel-like-youve-read-their-minds)
 
 ## PM / Collaboration Tools
 - [ProofHub](https://www.proofhub.com/)
