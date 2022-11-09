@@ -20,6 +20,9 @@ title: All Bookmarks
 - [Asana](https://asana.com/)
 - [Jam](https://jam.dev/) - bug reporting tool
 - [WhatRuns](https://www.whatruns.com/) - identify technologies used on any website
+- [Archbee](https://www.archbee.io/) - Product documentation platform
+- [Equals](https://equals.app/) Spreadsheets with connections to database, versioning, collaboration
+- [Switchboard](https://www.switchboard.app/) - 
 
 ## PKM / TFT / Productivity
 - [Remnote](https://remnote.com/) - notes with flashcards
