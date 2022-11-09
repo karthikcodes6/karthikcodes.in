@@ -8,8 +8,6 @@ References
 https://www.oberlo.com/blog/lean-startup 
 -->
 
-# Lean Startup
-
 1. Vision – Here, Ries puts forward the case for a new discipline of entrepreneurial management.
 2. Steer – This section dives deeper into the Lean Startup business model.
 3. Accelerate – Here, the focus is on how to get Lean Startups to speed through the ‘Build-Measure-Learn’ feedback loop as quickly as possible.
