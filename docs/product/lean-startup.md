@@ -20,7 +20,7 @@ https://www.oberlo.com/blog/lean-startup
 
 The Lean Startup model takes its name from the Toyota manufacturing revolution as lead by Taiichi Ohno and Shigeo Shingo. 
 
-**Toyota's Principles**
+#### **Toyota's Principles**
 
 1. Drawing on the knowledge and creativity of individual employees
 2. Shrinking batch sizes
@@ -31,7 +31,7 @@ This approach highlighted the difference between value-generating behavior, and 
 
 **Right Process == Success Startup**
 
-**The Lean Startup model**
+#### **The Lean Startup model**
 
 1. Fast cycle times
 2. Focusing on what the customer wants (without asking them first)
@@ -73,13 +73,13 @@ Validated learning and fast experimentation are integral to the lean startup bus
 
 ### The Lean Startup Depends on Minimum Viable Products
 
-**MVP**:
+#### **MVP**:
 
 * Simply the quickest and most effortless way to zip through the Build-Measure-Learn feedback loop. 
 * They facilitate the process of validated learning as quickly as possible.
 * A product is built and tested in the real world, then its successes and failures are measured, and then, from the measurable data, validated learning can inform the next stage in the product’s development.
 
-Principles:
+#### Principles:
 * Don't add so many features, any feature that doesn’t contribute to what you need to learn should be removed.
 * Don't worry about quality. Get the MVP to market as quickly as possible as it is a vital step towards building a high quality product.
 * Getting negative feedback for MVPs are common, but this data is still valuable for validated learning and the Build-Measure-Learn feedback loop. So, prepare employees for such results and instead encourage commitment to iteration, innovation, and to to see such setbacks as part of the process. 
