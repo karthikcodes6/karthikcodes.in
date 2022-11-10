@@ -8,7 +8,11 @@ References
 https://www.oberlo.com/blog/lean-startup 
 -->
 
-### WIP
+:::info
+
+Work in progress
+
+:::
 
 1. Vision – Here, Ries puts forward the case for a new discipline of entrepreneurial management.
 2. Steer – This section dives deeper into the Lean Startup business model.
