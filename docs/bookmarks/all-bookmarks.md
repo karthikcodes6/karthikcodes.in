@@ -24,6 +24,11 @@ title: All Bookmarks
 - [Archbee](https://www.archbee.io/) - Product documentation platform
 - [Equals](https://equals.app/) Spreadsheets with connections to database, versioning, collaboration
 - [Switchboard](https://www.switchboard.app/) - 
+- [Brightback](https://brightback.com/) - customer retention tool
+- [RetentionEngine](https://www.retentionengine.com/) - customer retention tool
+- [Upzelo](https://upzelo.com/) - customer retention tool
+- [ProsperStack](https://prosperstack.com/) - customer retention tool
+- [Churnkey](https://churnkey.co/) - customer retention tool
 
 ## PKM / TFT / Productivity
 - [Remnote](https://remnote.com/) - notes with flashcards
