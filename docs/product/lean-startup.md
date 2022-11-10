@@ -8,6 +8,8 @@ References
 https://www.oberlo.com/blog/lean-startup 
 -->
 
+### WIP
+
 1. Vision – Here, Ries puts forward the case for a new discipline of entrepreneurial management.
 2. Steer – This section dives deeper into the Lean Startup business model.
 3. Accelerate – Here, the focus is on how to get Lean Startups to speed through the ‘Build-Measure-Learn’ feedback loop as quickly as possible.
@@ -66,3 +68,19 @@ Validated learning and fast experimentation are integral to the lean startup bus
 2. Collect real world data as much as possible and kown what is and is not working in reality, 
 3. Never ever assume this will work in the future only real data. 
 4. All data only available "outside the building" i.e. in the real world. 
+
+## Steer
+
+### The Lean Startup Depends on Minimum Viable Products
+
+**MVP**:
+
+* Simply the quickest and most effortless way to zip through the Build-Measure-Learn feedback loop. 
+* They facilitate the process of validated learning as quickly as possible.
+* A product is built and tested in the real world, then its successes and failures are measured, and then, from the measurable data, validated learning can inform the next stage in the product’s development.
+
+Principles:
+* Don't add so many features, any feature that doesn’t contribute to what you need to learn should be removed.
+* Don't worry about quality. Get the MVP to market as quickly as possible as it is a vital step towards building a high quality product.
+* Getting negative feedback for MVPs are common, but this data is still valuable for validated learning and the Build-Measure-Learn feedback loop. So, prepare employees for such results and instead encourage commitment to iteration, innovation, and to to see such setbacks as part of the process. 
+
