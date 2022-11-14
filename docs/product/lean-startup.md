@@ -109,9 +109,9 @@ One of the biggest blocks to creative potential is the poorly-made choice to per
 > Fail fast, pivot sooner. 
 
 Reason many delay pivoting:
-1. Vanity metrics encourage entrepreneurs to draw conclusions from the data that match their wishes rather than reality; this, in turn, means that they do not believe that change is necessary.
-2. Unclear hypotheses which, by their obfuscate nature, make it impossible to experience complete failure, again disguise the fact that a radical change may indeed be necessary.
-3. Many afraid of pivoting. Acknowledging failure can be disastrous for team morale, the fear of their new business idea, not getting a chance to really prove itself post-pivot is great.
+1. **Vanity metrics** encourage entrepreneurs to draw conclusions from the data that match their wishes rather than reality; this, in turn, means that they do not believe that change is necessary.
+2. **Unclear hypotheses** which, by their obfuscate nature, make it impossible to experience complete failure, again disguise the fact that a radical change may indeed be necessary.
+3. Many **afraid of pivoting**. Acknowledging failure can be disastrous for team morale, the fear of their new business idea, not getting a chance to really prove itself post-pivot is great.
 
 Lean startup model approaches pivoting as a structured form of change. It's what makes companies who implement the method so robust as, if they need to pivot, they have all the tools (think validated learning, freedom to experiment, MVPs, innovation account and accountable metrics) 
 
