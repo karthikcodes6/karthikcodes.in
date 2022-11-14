@@ -119,3 +119,32 @@ Lean startup model approaches pivoting as a structured form of change. It's what
 ## Accelerate
 
 ### Think Big, Think Smaller Batch Sizes 
+Working with small batch sizes is far more efficient than producing mass batches of a particular product. With small batches, quality problems can be identified and rectified much sooner
+The Lean Startup method focuses on formulating a hypothesis and getting an MVP on the market, using the smallest batch size possible, within the quickest time frame
+
+### Start Your Engines, Now We’re Talking Sustainable Growth
+
+Sustainable growth = new customers come from the actions of past customers.
+
+4 ways:
+1. **Word of mouth** - result of customers feeling incredibly positive
+2. As a **side effect of product usage** - ex: paypal, UPI, WhatsApp invite friend to message/transfer money
+3. Through **funded advertising** - should b e paid from revenue. 
+4. Through **repeat purchases** or use - ex: Netflix, Notion, etc
+
+Sustainable growth >>>> **Engines of growth**
+
+1. **Sticky** - This engine focuses on attracting and retaining customers for the long-term. If the acquisition rate is higher than the churn rate, the company will grow. The key to sustainable growth within this engine is to target existing customers and encourage them to continue using the product.
+2. **viral** - offshoot of customers simply being exposed to a product from existing customers, without the existing customers necessarily raving about it. Further, in this particular model, monetary exchange is not a driver for growth. What’s important is that the customers are using the product, and virally spreading it.
+3. **paid** - Either to decrease the costs of acquiring new customers, or to increase the revenue from each acquired customer. Here the focus is on the customer lifetime value (LTV) which takes how much a customer will pay for a product over the product’s lifespan, and deducts from it the product’s variable costs. The remaining revenue is then invested in growth via buying advertising.
+
+:::warning
+
+Instead of focusing on many engine of growth, focus just one specialize in it.
+
+:::
+
+> Success is not delivering a feature; success is learning how to solve the customer's problem
+
+
+### Adapt by Asking “Why” More Effectively
