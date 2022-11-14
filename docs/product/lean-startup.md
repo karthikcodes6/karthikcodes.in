@@ -78,7 +78,6 @@ Validated learning and fast experimentation are integral to the lean startup bus
 ### The Lean Startup Depends on Minimum Viable Products
 
 #### **MVP**:
-
 * Simply the quickest and most effortless way to zip through the Build-Measure-Learn feedback loop. 
 * They facilitate the process of validated learning as quickly as possible.
 * A product is built and tested in the real world, then its successes and failures are measured, and then, from the measurable data, validated learning can inform the next stage in the product’s development.
@@ -88,3 +87,35 @@ Validated learning and fast experimentation are integral to the lean startup bus
 * Don't worry about quality. Get the MVP to market as quickly as possible as it is a vital step towards building a high quality product.
 * Getting negative feedback for MVPs are common, but this data is still valuable for validated learning and the Build-Measure-Learn feedback loop. So, prepare employees for such results and instead encourage commitment to iteration, innovation, and to to see such setbacks as part of the process. 
 
+### Lean Startups Must Measure Their Successes and Failures Optimally
+
+> Innovation accounting and actionable metrics
+Startups success can't be measured by interacting with a few customers and seeing if their overall numbers increase. 
+
+Innovation accounting allows startups to objectively prove that they are using validated learning to foster a sustainable business.
+1. Implement an MVP to gain real data on the current status of the company. An MVP helps integrate real baseline customer data into a startup’s growth model, even if the customers don’t value the MVP at present.
+2. Every initiative that a startup undertakes should be foucused on improving just one of its growth drivers. Ex: startup might choose the activation rate of new customers as a driver for growth. 
+3. Decision to pivot or persevere. If the drivers of the business model are not improving it needs to pivot.
+
+**Actionable metrics** are further way to improve the way Lean Startups measure their outcomes. They are **Actionable, Accessible and Auditable.**
+
+1. Actionable - It must indicate a clear line of cause and effect without any mistakes.
+2. Accessible - Reports needs to be as simple and widely accessible as possible to ensure that the entire team is on board. 
+3. Auditable - The reports should be true facts. Ex: data must be reliant on the real behavior of or interactions with the customers. 
+
+### Pivot or Persevere
+One of the biggest blocks to creative potential is the poorly-made choice to perservere with a failing startup approach. However, a well-considered pivot in a new direction can help entrepreneurs move along the path to a sustainable, successful business. 
+
+> Fail fast, pivot sooner. 
+
+Reason many delay pivoting:
+1. Vanity metrics encourage entrepreneurs to draw conclusions from the data that match their wishes rather than reality; this, in turn, means that they do not believe that change is necessary.
+2. Unclear hypotheses which, by their obfuscate nature, make it impossible to experience complete failure, again disguise the fact that a radical change may indeed be necessary.
+3. Many afraid of pivoting. Acknowledging failure can be disastrous for team morale, the fear of their new business idea, not getting a chance to really prove itself post-pivot is great.
+
+Lean startup model approaches pivoting as a structured form of change. It's what makes companies who implement the method so robust as, if they need to pivot, they have all the tools (think validated learning, freedom to experiment, MVPs, innovation account and accountable metrics) 
+
+
+## Accelerate
+
+### Think Big, Think Smaller Batch Sizes 
