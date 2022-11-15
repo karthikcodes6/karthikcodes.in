@@ -51,6 +51,7 @@ title: All Bookmarks
 - [Funtional Programming Fundamentals by Matthew](https://www.matthewgerstman.com/tech/functional-programming-fundamentals/)
 
 ## Javascript
+- [Lenis](https://github.com/studio-freight/lenis) - smooth scrolling
 
 ## React
 - [useRef vs Outside variable](https://markoskon.com/the-difference-between-refs-and-variables/) 
