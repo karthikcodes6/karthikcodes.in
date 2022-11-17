@@ -148,3 +148,59 @@ Instead of focusing on many engine of growth, focus just one specialize in it.
 
 
 ### Adapt by Asking “Why” More Effectively
+A Lean Startup is defined by being adaptive. It must be able to adjust its performance and operations to match its current context. It is vital for teams to find their optimal working pace as when a startup goes too fast, vital validated learning experiences are completely overlooked.
+
+The concept of the "Five Whys" to work more adaptively. This is to get a better picutre of the why a certain process failed and to avoid jumping too quick. 
+
+Ex: machine in the production line has stopeed functionin
+
+Ask:
+1. Why did the machine stop? (Answer: Because it was overloaded)
+2. Why was it overloaded? (Answer: Because it wasn’t lubricated effectively)
+3. Why wasn’t it lubricated properly? (Answer: Because the lubrication pump isn’t working optimally)
+4. Why is it not working optimally? (Answer: Because it’s internal shaft mechanism is worn out)
+5. Why is the shaft worn out? (Answer: Because we don’t have a system in place in which a member of staff regularly checks the lubrication pumps shafts)
+
+This will help us to narrow down the problem from big issue and find the root cause of the failure. It's now easier to solve the issue and prevent such a large system failure from happening in the future.
+
+Two rules of Lean Startup:
+1. Be tolerant of all mistakes the first time. 
+2. Never allow the same mistake to be made twice. 
+
+### How to Incubate Innovation in a Sandbox
+
+A traditional understanding of the way companies develop over time suggests that once they reach a certain size, they begin to lose the ability to innovate and grow – but this is a false belief.
+
+As long as companies prepared to adopt to a more flexible management philoshopy, innovation can fuel the direction of big, established businesses. 
+
+#### **To foster innovation, they required theses structural attribues:**
+1. **Scarce but secure resources** - Startups need significantly less capital than established businesses.Still, that capital must be safe from any form of tampering as startups are incredibly sensitive to any changes made to the budget midcourse.
+2. **Independent development authority** - Startup teams require full autonomy to think creatively and to develop and market new products. 
+3. **A personal stake in the outcome** – Entrepreneurs should have a personal stake in the success of their products.
+
+When a company reaches a certain size; however, innovation can be seen to be **threatening as it requires a shift in operations** and established managerial systems which demand a great deal of effort. 
+
+Therefore, in more established companies, an **“innovation sandbox”** should be created which will contain any impact of the experimentation and innovation within it, but in which the members of the startup team have full freedom. 
+
+#### **For an innovation sandbox to be truly effective, it must adhere to the following rules:**
+1. Any team can create an experiment that only affects the sandboxed parts of the product or service.
+2. The same team must see the experiment through from start to finish.
+3. No experiment can run longer than the specified amount of time.
+4. No experiment can affect more than the specified number of customers.
+5. Every experiment has to be evaluated by 5-10 actionable metrics.
+6. Each sandbox team must use the same metrics to evaluate success.
+7. Any team leading an experiment must monitor the metrics and customer interactions while the test is in progress and put an immediate end to it if something catastrophic happens.
+
+Further, by consistently using the same metrics, the team cultivates a solid literacy concerning these metrics for the company as a whole. What’s more, **the innovation sandbox embodies the Lean Startup method** in that it promotes rapid iteration, small batches, quick outcomes and constant validated learning.
+
+While implementing novel, dynamic approaches such as the innovation sandbox may cause a few teething problems; it can feel worse before it starts to feel better. The key is to preserve until a more innovative approach becomes the new normal. 
+
+### The Future is Bright, the Future is Lean
+At its heart, the Lean Startup method believes that waste is nearly always preventable once its real underlying cause has come to light. The age-old, flawed adage that employees should simply work harder to increase overall productivity is precisely part of the problem as it finds us often pouring all of our efforts into all of the wrong things. Instead, Reis invites us to imagine an organization in which each employee adopts the Lean Startup business method. He suggests that such a company would be a place in which:
+
+1. All assumptions would have to be explicitly stated and tested thanks to an authentic desire to get to the underlying truth of a project’s vision.
+2. Speed and quality would be approached as dual entities, working collaboratively to increase value for the customer. For example, a team will race to get an MVP out as quickly as possible, but won’t abandon it immediately, forgoing the validated learning process. Likewise, they won’t spend a considerable quantity of time building what they perceive to be a high-quality product, without having tested basic iterations of it on the market first.
+3. Failures and setbacks would be approached as opportunities for learning, not as excuses to blame.
+4. Speed would be fostered by forgoing any unnecessary work that does not directly result in learning.
+
+Above all, however, Reis states that with the Lean Startup method, organizations can finally stop wasting so much time and start bravely testing their hypotheses out there in the real world at speed and with smart, validated learning processes in place which ultimately, help pave the way to success.
