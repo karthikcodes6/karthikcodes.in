@@ -136,7 +136,7 @@ module.exports = {
     {
       type: "category",
       label: "Product",
-      items: ["product/lean-startup"],
+      items: ["product/lean-startup", 'product/hooked'],
     },
     {
       type: "category",
