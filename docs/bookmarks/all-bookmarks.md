@@ -43,6 +43,7 @@ title: All Bookmarks
 - [Akiflow](https://akiflow.com/) - Calendar app
 - [Sunsama](https://get.sunsama.com/) - Calendar app
 - [Motion](https://www.usemotion.com/) - Calendar app
+- [Reactangle Mac](https://rectangleapp.com/) - Window Manager for MacOS
 
 ## UX 
 - [Breaking down Amazon’s mega dropdown](https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown) 
