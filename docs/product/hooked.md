@@ -38,7 +38,7 @@ We will look at these four phases in greater detail in chapters after the next o
 
 ## The Habit Zone
 
-### Benefits of habit-forming
+<!-- ### Benefits of habit-forming
 1. Getting consumers to form habits related to their products can be critical for many companies
 to succeed, but it is not necessary for every single company.
 2. For cases where it is needed, and where a company successfully manages to achieve it, habit forming can have a number of benefits. These include:
@@ -49,6 +49,6 @@ to succeed, but it is not necessary for every single company.
 3. But people are creatures of habits, and creating new ones requires them to forget certain old ones.
 4. This means that for new types of behavior to really become ingrained into our decision-making
 systems, they need to be reinforced again and again.
-5. The benefit is that once you have succeeded in turning your product into a habit, another competing product will find it tougher to displace your product, e.g. Google’s ubiquity and synonymity with Internet search has meant that products that are not particularly bad, like Bing, have failed to become as popular.
+5. The benefit is that once you have succeeded in turning your product into a habit, another competing product will find it tougher to displace your product, e.g. Google’s ubiquity and synonymity with Internet search has meant that products that are not particularly bad, like Bing, have failed to become as popular. -->
 
 ### How to test the habit-forming potential of your product?
