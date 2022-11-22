@@ -29,7 +29,7 @@ module.exports = {
         title: "My Bookmarks",
         description: "All links I've bookmarked, organized by topic.",
       },
-      items: ["bookmarks/all-bookmarks"],
+      items: ["bookmarks/tools", "bookmarks/articles-books"],
     },
     {
       type: "category",
@@ -136,12 +136,12 @@ module.exports = {
     {
       type: "category",
       label: "Product",
-      items: ["product/lean-startup", 'product/hooked'],
+      items: ["product/lean-startup", "product/hooked"],
     },
     {
       type: "category",
       label: "Personal Development",
-      items: ["personal-development/audience-identification", 'personal-development/todo-list-formula'],
+      items: ["personal-development/audience-identification", "personal-development/todo-list-formula"],
     },
   ],
 };

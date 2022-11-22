@@ -11,6 +11,7 @@ https://visme.co/blog/wp-content/uploads/Hooked-How-to-Build-Habit-Forming-Produ
 ## The Hook Model
 
 ### The importance of habits in business
+
 * For many companies, turning their products into habits – behaviors requiring no conscious thought – drives a lot of value. This makes loyalty as important as gaining millions of customers.
 * Once a product has become a habit, it does not require extensive advertising to ensure usage; it
 is linked to users’ emotions and routines.
@@ -39,12 +40,13 @@ We will look at these four phases in greater detail in chapters after the next o
 ## The Habit Zone
 
 ### Benefits of habit-forming
+
 1. Getting consumers to form habits related to their products can be critical for many companies
 to succeed, but it is not necessary for every single company.
 2. For cases where it is needed, and where a company successfully manages to achieve it, habit forming can have a number of benefits. These include:
     1. increased customer lifetime value (CLTV) – the amount of money that the company can make from customers before they move to competing offerings
     2. more flexibility in raising prices or charging for premium services
-    3.  supercharged growth by word-of-mouth publicity (characterized by Viral Cycle Time – the amount of time taken by a user to invite another user)
+    3. supercharged growth by word-of-mouth publicity (characterized by Viral Cycle Time – the amount of time taken by a user to invite another user)
     4. greater competitive edge, because the competition finds it difficult to make inroads, e.g.people continue to use the QWERTY keyboard despite better keyboards available
 3. But people are creatures of habits, and creating new ones requires them to forget certain old ones.
 4. This means that for new types of behavior to really become ingrained into our decision-making
