@@ -25,10 +25,9 @@ is linked to users’ emotions and routines.
 hooks being employed to drive habit formation in our times.
 * The hooks employed by companies essentially follow a four-phase process called the Hook Model. Successful products go through multiple cycles of these four phases to reach a refined stage where users keep coming back for more on their own, without any need for aggressive marketing by the company.
 
-<!-- <img width="300" alt="image" src="https://user-images.githubusercontent.com/24937683/202777107-8587ac77-3925-47bd-b379-ecae9c02168b.png"> -->
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/24937683/202777107-8587ac77-3925-47bd-b379-ecae9c02168b.png" />
 
-
-### The four phases of the Hook Model are:
+### The four phases of the Hook Model are
 
 1. **Trigger** – External or internal cues that prompt certain behavior
 2. **Action** – Use of the product, based on ease of use and motivation
