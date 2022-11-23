@@ -14,11 +14,14 @@ title: Tools
 - [FlyCode](https://www.flycode.com/) - not sure what it is looks like a code editor for non-coders
 - [Supabase](https://supabase.com/) - firebase alternative
 - [Star History](https://star-history.com/) - The missing star history graph of GitHub repos
+- [Playwright](https://playwright.dev/) - end-to-end testing / cypress replacement
+- [JSON Escape / Unescape](https://www.freeformatter.com/json-escape.html#before-output) - Escapes or unescapes a JSON string removing traces of offending characters that could prevent parsing.
 
 ## Product Building
 
 - [Product Psychology Masterclass](https://growth.design/course)
 - [Finding Language/Market Fit: How to Make Customers Feel Like You’ve Read Their Minds](https://review.firstround.com/finding-language-market-fit-how-to-make-customers-feel-like-youve-read-their-minds)
+- [Dont build](https://dont.build/) - A simplified opinionated decision-making system that tries to bring in elements of objectivity to making feature decisions in software products.
 
 ## PM / Collaboration Tools
 
