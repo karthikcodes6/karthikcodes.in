@@ -6,7 +6,7 @@ title: Tools
 ## Collaboration
 
 - [Local-first software](https://www.inkandswitch.com/local-first) - You own your data, in spite of the cloud
-- [YJS](https://github.com/yjs/yjs) - Shared data types for building collaborative software
+- [YJS](https://github.com/yjs/yjs) - Shared data types for building collaborative software.
 
 ## Dev Tools
 
