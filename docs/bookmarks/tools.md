@@ -53,6 +53,7 @@ title: Tools
 - [Sunsama](https://get.sunsama.com/) - Calendar app
 - [Motion](https://www.usemotion.com/) - Calendar app
 - [Reactangle Mac](https://rectangleapp.com/) - Window Manager for MacOS
+- [Bike: Innovative Rich Text Editing](https://www.hogbaysoftware.com/posts/bike-rich-text/)
 
 ## UX
 
