@@ -143,5 +143,10 @@ module.exports = {
       label: "Personal Development",
       items: ["personal-development/audience-identification", "personal-development/todo-list-formula"],
     },
+    {
+      type: "category",
+      label: "Personal Finance",
+      items: ["personal-finance/health-insurance-guide", "personal-finance/real-estate-guide"],
+    },
   ],
 };
