@@ -3,10 +3,7 @@ id: hooked
 title: Hooked
 ---
 
-<!--
-References:
-https://visme.co/blog/wp-content/uploads/Hooked-How-to-Build-Habit-Forming-Products-Resume.pdf
--->
+<img src="/images/hooked-cover.jpg" alt="drawing" width="100" />
 
 ## The Hook Model
 
@@ -53,3 +50,8 @@ We will look at these four phases in greater detail in chapters after the next o
 5. The benefit is that once you have succeeded in turning your product into a habit, another competing product will find it tougher to displace your product, e.g. Google’s ubiquity and synonymity with Internet search has meant that products that are not particularly bad, like Bing, have failed to become as popular.
 
 <!-- ### How to test the habit-forming potential of your product? -->
+
+<!--
+References:
+https://visme.co/blog/wp-content/uploads/Hooked-How-to-Build-Habit-Forming-Products-Resume.pdf
+-->

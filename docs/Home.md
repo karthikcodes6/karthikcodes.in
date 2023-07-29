@@ -1,7 +1,7 @@
 ---
 id: Home
 title: About me
-sidebar_label: Home
+sidebar_label: 🏠 Home
 hide_title: true
 slug: /
 ---

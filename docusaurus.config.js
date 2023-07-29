@@ -1,5 +1,5 @@
-const math = require('remark-math');
-const katex = require('rehype-katex');
+const math = require("remark-math");
+const katex = require("rehype-katex");
 
 module.exports = {
   title: "Karthik Codes",
@@ -8,11 +8,12 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
-  favicon: "https://lh5.googleusercontent.com/AXJrR7nMmY2B9FEaEKAmOmAYhAnxkqwZYbEbS-Rr2UL09bCpeY2XC79sDVt1UxPqkNloM1zfP20NuMJkunv5=w2782-h1592-rw",
+  favicon:
+    "https://lh5.googleusercontent.com/AXJrR7nMmY2B9FEaEKAmOmAYhAnxkqwZYbEbS-Rr2UL09bCpeY2XC79sDVt1UxPqkNloM1zfP20NuMJkunv5=w2782-h1592-rw",
   //organizationName: "linyuxuanlin", // Usually your GitHub org/user name.
   //projectName: "Wiki_Docusaurus", // Usually your repo name.
   themeConfig: {
-/*
+    /*
     footer: {
       
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
@@ -20,7 +21,8 @@ module.exports = {
     */
 
     //sidebarCollapsible: true, //默认折叠
-    image: 'https://lh5.googleusercontent.com/AXJrR7nMmY2B9FEaEKAmOmAYhAnxkqwZYbEbS-Rr2UL09bCpeY2XC79sDVt1UxPqkNloM1zfP20NuMJkunv5=w2782-h1592-rw',
+    image:
+      "https://lh5.googleusercontent.com/AXJrR7nMmY2B9FEaEKAmOmAYhAnxkqwZYbEbS-Rr2UL09bCpeY2XC79sDVt1UxPqkNloM1zfP20NuMJkunv5=w2782-h1592-rw",
     algolia: {
       apiKey: "5c07d8bf9c9928c4453857f6cad0420e",
       indexName: "wiki-power",
@@ -34,9 +36,6 @@ module.exports = {
       //... other Algolia params
     },
 
-
-    
-    
     colorMode: {
       // "light" | "dark"
       //defaultMode: "dark",
@@ -46,8 +45,8 @@ module.exports = {
       // Dark/light switch icon options
       switchConfig: {
         // Icon for the switch while in dark mode
-        darkIcon: '🌙',
-        lightIcon: '🌞',
+        darkIcon: "🌙",
+        lightIcon: "🌞",
 
         // CSS to apply to dark icon,
         // React inline style object
@@ -89,22 +88,16 @@ module.exports = {
           label: "GitHub",
           position: "right",
         },
-        {
-          href: "https://www.getrevue.co/profile/karthikcodes6",
-          label: "Subscribe",
-          position: "right",
-        },
       ],
     },
-  }, 
+  },
 
   stylesheets: [
     {
-      href: 'https://cdn.jsdelivr.net/gh/linyuxuanlin/Wiki_Docusaurus/static/katex/v0.12.0/katex.min.css',
-      type: 'text/css',
-      integrity:
-        'sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X',
-      crossorigin: 'anonymous',
+      href: "https://cdn.jsdelivr.net/gh/linyuxuanlin/Wiki_Docusaurus/static/katex/v0.12.0/katex.min.css",
+      type: "text/css",
+      integrity: "sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X",
+      crossorigin: "anonymous",
     },
   ],
 
@@ -128,8 +121,8 @@ module.exports = {
           blogSidebarCount: 8,
           postsPerPage: 8,
           showReadingTime: false,
-          path: 'blog',
-          blogSidebarTitle: 'Recent',
+          path: "blog",
+          blogSidebarTitle: "Recent",
           truncateMarker: /<!--\s*(truncate)\s*-->/,
           // editUrl: 'https://github.com/linyuxuanlin/Wiki_Docusaurus/edit/main/',
           /*
@@ -146,11 +139,11 @@ module.exports = {
           customCss: require.resolve("./src/css/custom.css"),
         },
         googleAnalytics: {
-          trackingID: 'G-XXMLS6C3XT',
+          trackingID: "G-XXMLS6C3XT",
           anonymizeIP: true,
         },
         gtag: {
-          trackingID: 'G-XXMLS6C3XT',
+          trackingID: "G-XXMLS6C3XT",
           anonymizeIP: true,
         },
       },

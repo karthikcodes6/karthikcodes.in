@@ -3,14 +3,7 @@ id: lean-startup
 title: Lean Startup
 ---
 
-<!--
-References
-https://www.oberlo.com/blog/lean-startup
--->
-
-1. Vision – Here, Ries puts forward the case for a new discipline of entrepreneurial management.
-2. Steer – This section dives deeper into the Lean Startup business model.
-3. Accelerate – Here, the focus is on how to get Lean Startups to speed through the ‘Build-Measure-Learn’ feedback loop as quickly as possible.
+<img src="/images/lean-startup-cover.png" alt="drawing" width="100" />
 
 ## Vision
 
@@ -139,11 +132,7 @@ Sustainable growth >>>> **Engines of growth**
 2. **viral** - offshoot of customers simply being exposed to a product from existing customers, without the existing customers necessarily raving about it. Further, in this particular model, monetary exchange is not a driver for growth. What’s important is that the customers are using the product, and virally spreading it.
 3. **paid** - Either to decrease the costs of acquiring new customers, or to increase the revenue from each acquired customer. Here the focus is on the customer lifetime value (LTV) which takes how much a customer will pay for a product over the product’s lifespan, and deducts from it the product’s variable costs. The remaining revenue is then invested in growth via buying advertising.
 
-:::warning
-
-Instead of focusing on many engine of growth, focus just one specialize in it.
-
-:::
+> Instead of focusing on many engine of growth, focus just one specialize in it.
 
 > Success is not delivering a feature; success is learning how to solve the customer's problem
 
@@ -210,3 +199,8 @@ At its heart, the Lean Startup method believes that waste is nearly always preve
 4. Speed would be fostered by forgoing any unnecessary work that does not directly result in learning.
 
 Above all, however, Reis states that with the Lean Startup method, organizations can finally stop wasting so much time and start bravely testing their hypotheses out there in the real world at speed and with smart, validated learning processes in place which ultimately, help pave the way to success.
+
+<!--
+References
+https://www.oberlo.com/blog/lean-startup
+-->

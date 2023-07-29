@@ -3,6 +3,7 @@ id: todo-list-formula
 title: To-Do List Formula, A Stress-Free Guide To Creating To-Do Lists That Work!
 ---
 
+<img src="/images/todo-list-formula-cover.jpg" alt="drawing" width="100" />
 
 ## Summary
 

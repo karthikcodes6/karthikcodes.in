@@ -3,27 +3,35 @@ module.exports = {
     "Home",
     {
       type: "category",
-      label: "Tech Notes",
+      label: "📝 Writings",
       link: {
         type: "generated-index",
-        title: "My Tech Notes",
-        description: "All coding notes I've written, organized by topic.",
+        title: "My Writings",
+        description: "All links I've bookmarked, organized by topic.",
       },
       items: [
-        "tech-notes/js-ts-monorepo",
-        "tech-notes/design-system-storybook",
-        "tech-notes/tailwind-react-config",
-        "tech-notes/postgraphile",
-        "tech-notes/problem-solving",
-        "tech-notes/frontend-masters-full-stack-notes",
-        "tech-notes/objected-oriented-design",
-        "tech-notes/simple-promise-notes",
-        "tech-notes/rich-text-editor-notes",
+        "writings/performance-analyze-javascript-methods",
+        "writings/problem-solving-approaches",
+        "writings/problem-solving-patterns",
+        "writings/recursion-daily-practicing",
+        "writings/solid-principles-react",
       ],
+    },
+    "book-shelf",
+
+    {
+      type: "category",
+      label: "📘 Book Summary",
+      link: {
+        type: "generated-index",
+        title: "Book Summary",
+        description: "Book Summary",
+      },
+      items: ["product/lean-startup", "product/hooked", "personal-development/todo-list-formula"],
     },
     {
       type: "category",
-      label: "Bookmarks",
+      label: "📑 Bookmarks",
       link: {
         type: "generated-index",
         title: "My Bookmarks",
@@ -31,9 +39,10 @@ module.exports = {
       },
       items: ["bookmarks/tools", "bookmarks/articles-books"],
     },
+
     {
       type: "category",
-      label: "Coding Patterns",
+      label: "💡 Coding Patterns",
       link: {
         type: "generated-index",
         title: "Coding Patterns",
@@ -86,7 +95,7 @@ module.exports = {
     // },
     {
       type: "category",
-      label: "Algorithms",
+      label: "🧠💻 Algorithms",
       items: [
         {
           type: "category",
@@ -133,20 +142,37 @@ module.exports = {
         "system-design/system-design-load-balancers",
       ],
     },
+
+    // {
+    //   type: "category",
+    //   label: "Personal Development",
+    //   items: ["personal-development/audience-identification", "personal-development/todo-list-formula"],
+    // },
+    // {
+    //   type: "category",
+    //   label: "Personal Finance",
+    //   items: ["personal-finance/health-insurance-guide", "personal-finance/real-estate-guide"],
+    // },
+
     {
       type: "category",
-      label: "Product",
-      items: ["product/lean-startup", "product/hooked"],
-    },
-    {
-      type: "category",
-      label: "Personal Development",
-      items: ["personal-development/audience-identification", "personal-development/todo-list-formula"],
-    },
-    {
-      type: "category",
-      label: "Personal Finance",
-      items: ["personal-finance/health-insurance-guide", "personal-finance/real-estate-guide"],
+      label: "Tech Notes",
+      link: {
+        type: "generated-index",
+        title: "My Tech Notes",
+        description: "All coding notes I've written, organized by topic.",
+      },
+      items: [
+        "tech-notes/js-ts-monorepo",
+        "tech-notes/design-system-storybook",
+        "tech-notes/tailwind-react-config",
+        "tech-notes/postgraphile",
+        "tech-notes/problem-solving",
+        "tech-notes/frontend-masters-full-stack-notes",
+        "tech-notes/objected-oriented-design",
+        "tech-notes/simple-promise-notes",
+        "tech-notes/rich-text-editor-notes",
+      ],
     },
   ],
 };
