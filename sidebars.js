@@ -27,7 +27,7 @@ module.exports = {
         title: "Book Summary",
         description: "Book Summary",
       },
-      items: ["product/lean-startup", "product/hooked", "personal-development/todo-list-formula"],
+      items: ["book-summary/lean-startup", "book-summary/hooked", "book-summary/todo-list-formula"],
     },
     {
       type: "category",
