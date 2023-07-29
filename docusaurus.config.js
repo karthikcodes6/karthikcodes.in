@@ -8,8 +8,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
-  favicon:
-    "https://lh5.googleusercontent.com/AXJrR7nMmY2B9FEaEKAmOmAYhAnxkqwZYbEbS-Rr2UL09bCpeY2XC79sDVt1UxPqkNloM1zfP20NuMJkunv5=w2782-h1592-rw",
+  favicon: "https://avatars.githubusercontent.com/u/24937683?v=4",
   //organizationName: "linyuxuanlin", // Usually your GitHub org/user name.
   //projectName: "Wiki_Docusaurus", // Usually your repo name.
   themeConfig: {
@@ -21,8 +20,7 @@ module.exports = {
     */
 
     //sidebarCollapsible: true, //默认折叠
-    image:
-      "https://lh5.googleusercontent.com/AXJrR7nMmY2B9FEaEKAmOmAYhAnxkqwZYbEbS-Rr2UL09bCpeY2XC79sDVt1UxPqkNloM1zfP20NuMJkunv5=w2782-h1592-rw",
+    image: "https://avatars.githubusercontent.com/u/24937683?v=4",
     algolia: {
       apiKey: "5c07d8bf9c9928c4453857f6cad0420e",
       indexName: "wiki-power",
